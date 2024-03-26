@@ -1,6 +1,6 @@
 
 
-
+//
 
 let score = 10
 let highscore = score + 10
